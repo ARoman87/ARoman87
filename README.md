@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroman87&label=Profile%20views&color=0e75b6&style=flat" alt="aroman87" /> </p>
 
-- 🔭 I’m currently working on [React learning from Scrimba](https://scrimba.com/)
+- 🔭 I’m currently working on my [Software Engineering Portfolio](https://code-dependant.com/), converting it to React.
 
-- 🌱 I’m currently learning **React, Java, C++**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [code-dependant.com](code-dependant.com)
 
