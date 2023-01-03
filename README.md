@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">A passionate frontend developer from the US</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroman87&label=Profile%20views&color=0e75b6&style=flat" alt="aroman87" /> </p>
 
-- 🔭 I’m currently working on my [Software Engineering Portfolio](https://code-dependant.com/), converting it to React.
+- 🔭 I’m currently working on a [Spotify Playlist](codecademy.com) with React.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React/Redux**
 
 - 👨‍💻 All of my projects are available at [code-dependant.com](code-dependant.com)
 
