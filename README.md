@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroman87&label=Profile%20views&color=0e75b6&style=flat" alt="aroman87" /> </p>
 
-- 🔭 I’m currently working on a [Spotify Playlist](codecademy.com) with React.
+- 🔭 I’m currently working on a **Workout Application** with the MERN Stack.
 
 - 🌱 I’m currently learning **React/Redux**
 
