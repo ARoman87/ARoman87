@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Workout Application** with the MERN Stack.
 
-- 🌱 I’m currently learning **React/Redux**
+- 🌱 I’m currently learning [Tailwind CSS](https://tailwindcss.com/)
 
 - 👨‍💻 All of my projects are available at [code-dependant.com](code-dependant.com)
 
