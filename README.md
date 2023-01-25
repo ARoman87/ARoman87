@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Workout Application** with the MERN Stack.
 
-- 🌱 I’m currently learning [TypeScript]([https://tailwindcss.com/](https://www.typescriptlang.org/))
+- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)
 
 - 👨‍💻 All of my projects are available at [code-dependant.com](code-dependant.com)
 
