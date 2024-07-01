@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">🚀 Code Wrangler Extraordinaire | Tech Enthusiast | Code Detective 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroman87&label=Profile%20views&color=0e75b6&style=flat" alt="aroman87" /> </p>
 
