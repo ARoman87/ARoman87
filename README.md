@@ -61,9 +61,10 @@
 
 ---
 
-### Spotify Playing 🎧
+<p>Also, I Am Batman!</p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9)
+![Batman](https://raw.github.com/rosschapman/gifs/master/batman_keaton_beckoning.gif)
+
 
 
 
