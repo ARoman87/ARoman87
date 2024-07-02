@@ -52,7 +52,7 @@ From investigating to debugging code, my journey is all about embracing challeng
 ---
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroman87&layout=pie&langs_count=8&theme=tokyonight" alt="Angel's GitHub stats" />
-<img  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=aroman87&layout=pie&langs_count=8&theme=tokyonight](https://github-profile-trophy.vercel.app/?username=aroman87&rank=AAA,AA,A,S,SS,SSS)" alt="Angel's GitHub stats" />
+<img  src="https://github-profile-trophy.vercel.app/?username=aroman87&rank=AAA,AA,A,S,SS,SSS" alt="Angel's GitHub stats" />
 
 
 
