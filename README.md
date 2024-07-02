@@ -6,6 +6,7 @@
 <h2>🧐 About Me:</h2>
 Ever wonder what happens when a person like me with a vast amount of experiences in different careers discovers the magical world of code? You get me—a versatile tech enthusiast who can code, teach, and lead with the best of them.
 
+
 🌟 Currently, I’m leading a team of talented engineers to revamp and create groundbreaking apps. Yes, I’ve taken over projects like a friendly pirate taking over a ship—minus the eyepatch and parrot.
 
 🧑‍🏫 By night (or whenever I can squeeze in some time), I’m a proud instructor, guiding military members, veterans, and military spouses through the labyrinth of Python and web development. Turning tech newbies into coding ninjas is my jam!
@@ -15,7 +16,7 @@ Ever wonder what happens when a person like me with a vast amount of experiences
 From investigating to debugging code, my journey is all about embracing challenges and making tech magic happen. Let’s connect and maybe share a laugh or two over our favorite coding war stories! 🚀
 
 
-<h2 align="center">Skills:</h2>
+<h2 align="left">Skills:</h2>
 <p align="left">Confident:</p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -48,6 +49,12 @@ From investigating to debugging code, my journey is all about embracing challeng
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aroman87/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.code-dependant.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel427roman@gmail.com)
+
+---
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aroman87&layout=pie&langs_count=8&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aroman87&show_icons=true&theme=radical" />
+
+
 
 
 
