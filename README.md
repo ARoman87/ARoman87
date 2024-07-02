@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Angel</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aroman87&label=Profile%20views&color=0e75b6&style=flat" alt="aroman87" /> </p>
-<h3 align="center">🚀 Code Wrangler Extraordinaire | Tech Enthusiast | Code Detective 👨‍💻</h3>
+<div align="center">
 
+# Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I am [Angel](https://github.com/ARoman87/ARoman87/) 
+  
+</div>
+<h3 align="center">🚀 Code Wrangler Extraordinaire | Tech Enthusiast | Code Detective <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 
 <h2>🧐 About Me:</h2>
@@ -45,7 +48,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<h2>Connect with me:</h2>
+<h2>🤝🏻 Connect with me:</h2>
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aroman87/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.code-dependant.com/)
@@ -55,6 +58,12 @@
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroman87&layout=pie&langs_count=8&theme=tokyonight" alt="Angel's GitHub stats" />
 <img  src="https://github-profile-trophy.vercel.app/?username=aroman87&rank=AAA,AA,A,S,SS,SSS" alt="Angel's GitHub stats" />
+
+---
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9)
 
 
 
