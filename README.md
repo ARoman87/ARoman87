@@ -50,7 +50,7 @@ From investigating to debugging code, my journey is all about embracing challeng
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel427roman@gmail.com)
 
 ---
-<div style="display: flex; ">
+<div style="display: flex-row;">
     <div>
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroman87&layout=pie&langs_count=8&theme=tokyonight" alt="Angel's GitHub stats" />
     </div>
