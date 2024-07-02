@@ -4,15 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroman87&label=Profile%20views&color=0e75b6&style=flat" alt="aroman87" /> </p>
 
 <h2>🧐 About Me:</h2>
-Ever wonder what happens when a person like me with a vast amount of experiences in different careers discovers the magical world of code? You get me—a versatile tech enthusiast who can code, teach, and lead with the best of them.
-<br/>
-🌟 Currently, I’m leading a team of talented engineers to revamp and create groundbreaking apps. Yes, I’ve taken over projects like a friendly pirate taking over a ship—minus the eyepatch and parrot.
+<p>Ever wonder what happens when a person like me with a vast amount of experiences in different careers discovers the magical world of code? You get me—a versatile tech enthusiast who can code, teach, and lead with the best of them.</p>
 
-🧑‍🏫 By night (or whenever I can squeeze in some time), I’m a proud instructor, guiding military members, veterans, and military spouses through the labyrinth of Python and web development. Turning tech newbies into coding ninjas is my jam!
+<p>🌟 Currently, I’m leading a team of talented engineers to revamp and create groundbreaking apps. Yes, I’ve taken over projects like a friendly pirate taking over a ship—minus the eyepatch and parrot.</p>
 
-💡 On the entrepreneurial side, I lead a team where we build our own awesome software applications and help clients bring their tech dreams to life using an arsenal of cutting-edge technologies.
+<p>🧑‍🏫 By night (or whenever I can squeeze in some time), I’m a proud instructor, guiding military members, veterans, and military spouses through the labyrinth of Python and web development. Turning tech newbies into coding ninjas is my jam!</p>
 
-From investigating to debugging code, my journey is all about embracing challenges and making tech magic happen. Let’s connect and maybe share a laugh or two over our favorite coding war stories! 🚀
+<p>💡 On the entrepreneurial side, I lead a team where we build our own awesome software applications and help clients bring their tech dreams to life using an arsenal of cutting-edge technologies.</p>
+
+<p>From investigating to debugging code, my journey is all about embracing challenges and making tech magic happen. Let’s connect and maybe share a laugh or two over our favorite coding war stories! 🚀</p>
+
 
 
 <h2 align="left">Skills:</h2>
