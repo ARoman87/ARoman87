@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aroman87&label=Profile%20views&color=0e75b6&style=flat" alt="aroman87" /> </p>
 <h3 align="center">🚀 Code Wrangler Extraordinaire | Tech Enthusiast | Code Detective 👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aroman87&label=Profile%20views&color=0e75b6&style=flat" alt="aroman87" /> </p>
+
 
 <h2>🧐 About Me:</h2>
 <p>Ever wonder what happens when a person like me with a vast amount of experiences in different careers discovers the magical world of code? You get me—a versatile tech enthusiast who can code, teach, and lead with the best of them.</p>
