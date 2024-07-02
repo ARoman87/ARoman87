@@ -51,8 +51,12 @@ From investigating to debugging code, my journey is all about embracing challeng
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel427roman@gmail.com)
 
 ---
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aroman87&layout=pie&langs_count=8&theme=tokyonight)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aroman87&show_icons=true&theme=radical" />
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroman87&layout=pie&langs_count=8&theme=tokyonight" alt="Angel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aroman87&show_icons=true&theme=radical" alt="Angel's GitHub stats" />
+</div>
+
+
 
 
 
