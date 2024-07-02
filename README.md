@@ -38,6 +38,7 @@
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=c++&logoColor=blue)
+![Java](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 <h3 align="left"><ins>Confident:</ins></h3>
